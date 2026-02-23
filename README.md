@@ -35,43 +35,6 @@ Unindo a precisão da formação técnica pelo **SENAI** com o aprofundamento ac
 
 ### 📈 Estatísticas de Desenvolvedor
 
-name: Update README cards
-
-on:
-  schedule:
-    - cron: "0 3 * * *" # Roda diariamente às 3 da manhã
-  workflow_dispatch: # Permite rodar manualmente no botão "Run workflow"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          # Aqui você coloca as opções que queríamos, como o tema e ícones
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: languages
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
-          path: profile/langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit cards
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
 ---
 
 ### 🤝 Conecte-se Comigo
