@@ -2,8 +2,8 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Roda diariamente às 3 da manhã
-  workflow_dispatch: # Permite rodar manualmente no botão "Run workflow"
+    - cron: "0 3 * * *" 
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -11,11 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create profile directory
+        run: mkdir -p profile # Garante que a pasta existe para não dar erro no commit
+
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # Aqui você coloca as opções que queríamos, como o tema e ícones
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -23,7 +25,7 @@ jobs:
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: languages
+          card: top-langs # Corrigido de 'languages' para 'top-langs'
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
