@@ -37,6 +37,7 @@ Unindo a precisão da formação técnica pelo **SENAI** com o aprofundamento ac
 
 <p align="left">
   <img src="./profile/stats.svg" alt="GitHub Stats" height="180px" />
+  <br/>
   <img src="./profile/langs.svg" alt="Top Languages" height="180px" />
 </p>
 
