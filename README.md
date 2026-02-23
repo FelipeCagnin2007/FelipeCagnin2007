@@ -35,6 +35,11 @@ Unindo a precisão da formação técnica pelo **SENAI** com o aprofundamento ac
 
 ### 📈 Estatísticas de Desenvolvedor
 
+<p align="left">
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="180px" />
+  <img src="./profile/langs.svg" alt="Top Languages" height="180px" />
+</p>
+
 ---
 
 ### 🤝 Conecte-se Comigo
