@@ -1,6 +1,6 @@
 # Olá, eu sou Felipe Cagnin! 👋
 
-### Desenvolvedor Full Stack | Graduando em Ciência da Computação (UNIP)
+### Desenvolvedor Full Stack | Cursando Ciência da Computação (UNIP)
 
 Unindo a precisão da formação técnica pelo **SENAI** com o aprofundamento acadêmico em **Ciência da Computação pela UNIP (Jundiaí)**. Minha atuação é focada no ecossistema **Laravel & Vue.js**, com forte interesse em arquitetura de sistemas, escalabilidade e a interação profunda entre software e hardware.
 
