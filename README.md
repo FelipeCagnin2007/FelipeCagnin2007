@@ -35,9 +35,7 @@ Unindo a precisão da formação técnica pelo **SENAI** com o aprofundamento ac
 
 ### 📈 Estatísticas de Desenvolvedor
 
-<p align="left">
-  <img src="https://metrics.lecoq.io/FelipeCagnin2007?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo" alt="Metrics" width="400px" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Felipe%20Cagnin&fontSize=70&animation=fadeIn)
 
 ---
 
