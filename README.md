@@ -47,4 +47,4 @@ Unindo a precisão da formação técnica pelo **SENAI** com o aprofundamento ac
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/felipe-cagnin)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cagnin.lima.2007@gmail.com)
 
-*"A verdadeira maestria no software vem de entender a abstração sem nunca esquecer a fundação física que a sustenta."*
+*"Não há nada que não possa ser aprendido!"*
