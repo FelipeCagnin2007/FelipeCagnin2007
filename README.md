@@ -36,8 +36,7 @@ Unindo a precisão da formação técnica pelo **SENAI** com o aprofundamento ac
 ### 📈 Estatísticas de Desenvolvedor
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeCagnin2007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCagnin2007&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://metrics.lecoq.io/FelipeCagnin2007?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FSao_Paulo" alt="Metrics" width="400px" />
 </p>
 
 ---
